@@ -1,0 +1,32 @@
+body{
+    background-image: url(log.jpg);
+    background-repeat: no-repeat;
+    background-size: 1320px 600px;
+}
+form{
+    border: solid;
+    border-color: antiquewhite;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 60px;
+    background: radial-gradient(rgb(234, 240, 241),rgba(150, 219, 214, 0.473));
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    height:20px;
+    width: 260px;
+    border-radius: 20px;
+}
+button{
+    height: 40px;
+    width: 120px;
+    border-radius: 20px;
+    font-weight: bold;
+}

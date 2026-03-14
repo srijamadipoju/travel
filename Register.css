@@ -1,0 +1,33 @@
+body{
+    background-image: url(reg.jpg);
+    background-repeat: no-repeat;
+    background-size: 1320px 600px;
+}
+form{
+    border: solid;
+    width: 300px;
+    margin-left: 350px;
+    margin-top: 60px;
+    background-color:rgb(102, 132, 147);
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+label{
+    color: gold;
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+     height:20px;
+    width: 260px;
+    border-radius: 20px;
+}
+button{
+    height: 40px;
+    width: 120px;
+    background-color: skyblue;
+    border-radius: 20px;
+    font-weight: bold;
+}
